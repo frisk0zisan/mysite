@@ -1,4 +1,4 @@
-baseURL = 'https://frisk0zisan.github.io/'
+baseURL = 'https://frisk0zisan.github.io/portfolio/'
 languageCode = 'en-us'
 title = 'Masaki Sakata'
 publishDir = "docs"
