@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Masaki Sakata # Website name
-baseurl: 'https://frisk0zisan.github.io/portfolio/' # Website URL
+baseurl: 'https://frisk0zisan.github.io/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
