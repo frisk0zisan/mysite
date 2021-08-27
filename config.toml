@@ -1,5 +1,5 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://frisk0zisan.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Masaki Sakata'
 publishDir = "docs"
 canonifyurls = true
