@@ -18,7 +18,6 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Machine Learning
 - Natural Language Processing
 - Question Answering
 - Knowledge Base
@@ -62,14 +61,13 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "sakata.masaki.e9@elms.hokudai.ac.jp"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 Masaki Sakata is a fourth year universtiy student at [Hokkaido University](https://www.hokudai.ac.jp/).
-He is a member of Language Media Laboratory, and he studies Natural Language Processing.
-
+He is a member of Language Media Laboratory, and he studies Natural Language Processing.  
 His research interests include Question Answering and Named entity recognition. Other interests include design and gaming.  
 If you have any questions, please feel free to contact me through my email icon.
 
