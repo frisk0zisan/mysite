@@ -29,6 +29,14 @@ experience:
     date_end: ''
     description: Research on Attribute Value Extraction.
 
+  - title: Nikkei Inc.
+    company_url: ''
+    location: Tokyo(remote)
+    date_start: '2020-09-20'
+    date_end: '2020-09-25'
+    description: 1weeks intern：Data Scientist
+
+
         
   - title: Diamond head Co.,Ltd.
     company_url: ''
