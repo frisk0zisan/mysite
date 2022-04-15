@@ -1,9 +1,9 @@
 ---
 title: Wikipedia記事の構造化における関連知識を含む質問の有効性検証
-subtitle: 坂田将樹（北大），Rafal Rzepka（北大），荒木健治（北大）. YANS2021
+subtitle: 坂田将樹 (北大), 中山功太 (筑波大/理研), Rafal Rzepka (北大), 関根聡 (理研), 荒木健治 (北大). YANS2021
 
 # Summary for listings and search engines
-summary: 坂田将樹（北大），Rafal Rzepka（北大），荒木健治（北大）. YANS2021
+summary: 坂田将樹 (北大), 中山功太 (筑波大/理研), Rafal Rzepka (北大), 関根聡 (理研), 荒木健治 (北大). YANS2021
 
 
 # Link this post with a project

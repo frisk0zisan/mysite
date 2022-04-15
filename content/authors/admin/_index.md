@@ -66,7 +66,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "sakata.masaki.e9@elms.hokudai.ac.jp"
+email: "sakata.masaki.s5@dc.tohoku.ac.jp"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
