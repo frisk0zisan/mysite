@@ -6,13 +6,15 @@ title: Masaki Sakata
 superuser: true
 
 # Role/position/tagline
-role: 4 year Hokkaido University student.
+role: A master's student (M1) at Tohoku University.
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Hokkaido University
-  url: https://www.hokudai.ac.jp/
-
+- name: Tohoku University
+  url: https://www.is.tohoku.ac.jp/
+- name: Tohoku NLP Lab
+  uel: https://www.nlp.ecei.tohoku.ac.jp/
+  
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
@@ -25,9 +27,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: School of Engineering Language Media Laboratory
+  - course: Master of Information Science
+    institution:  Tohoku University
+    year: (Apr. 2022 - Mar. 2024(expected))
+  - course: Bachelor of Engineering
     institution: Hokkaido University 
-    year: (Apr. 2020 - Mar. 2022(expected))
+    year: (Apr. 2020 - Mar. 2022)
   - course: Department of Human-Oriented Information Systems Engineering
     institution: National Institute of Technology, Kumamoto College
     year: (Apr. 2015 - Mar. 2020)
@@ -66,8 +71,12 @@ email: "sakata.masaki.e9@elms.hokudai.ac.jp"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Masaki Sakata is a fourth year universtiy student at [Hokkaido University](https://www.hokudai.ac.jp/).
-He is a member of Language Media Laboratory, and he studies Natural Language Processing.  
+Masaki Sakata is a master’s student at [Tohoku University](https://www.is.tohoku.ac.jp/).  
+He is a member of [Tohoku NLP Laboratory](https://www.nlp.ecei.tohoku.ac.jp/), and he studies Natural Language Processing.  
 His research interests include Question Answering and Named entity recognition. Other interests include design and gaming.  
 If you have any questions, please feel free to contact me through my email icon.
 
+Masaki Sakata is a master’s student at [Tohoku University](https://www.is.tohoku.ac.jp/).   
+He is a member of [Tohoku NLP Laboratory](https://www.nlp.ecei.tohoku.ac.jp/) and is studying Natural Language Processing.  
+His research interests include Question Answering and Named Entity Recognition. Other interesting areas are design.  
+Please feel free to contact me through my email icon if you have any questions.  
