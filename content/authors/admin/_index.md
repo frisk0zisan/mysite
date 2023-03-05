@@ -21,8 +21,9 @@ organizations:
 # Interests to show in About widget
 interests:
 - Natural Language Processing
+- Named Entity
 - Question Answering
-- Knowledge Base
+- Probing
 
 # Education to show in About widget
 education:
@@ -71,10 +72,7 @@ email: "sakata.masaki.s5@dc.tohoku.ac.jp"
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Masaki Sakata is a master’s student at [Tohoku University](https://www.is.tohoku.ac.jp/).  
-He is a member of [Tohoku NLP Laboratory](https://www.nlp.ecei.tohoku.ac.jp/), and he studies Natural Language Processing.  
-His research interests include Question Answering and Named entity recognition. Other interests include design and gaming.  
-If you have any questions, please feel free to contact me through my email icon.
+
 
 Masaki Sakata is a master’s student at [Tohoku University](https://www.is.tohoku.ac.jp/).   
 He is a member of [Tohoku NLP Laboratory](https://www.nlp.ecei.tohoku.ac.jp/) and is studying Natural Language Processing.  
