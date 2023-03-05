@@ -12,8 +12,9 @@ role: A master's student (M1) at Tohoku University.
 organizations:
 - name: Tohoku University
   url: https://www.is.tohoku.ac.jp/
-- name: Tohoku NLP Lab
-  uel: https://www.nlp.ecei.tohoku.ac.jp/
+- name: Tohoku NLP Group
+  url: https://www.nlp.ecei.tohoku.ac.jp/
+
   
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -75,6 +76,6 @@ highlight_name: false
 
 
 Masaki Sakata is a master’s student at [Tohoku University](https://www.is.tohoku.ac.jp/).   
-He is a member of [Tohoku NLP Laboratory](https://www.nlp.ecei.tohoku.ac.jp/) and is studying Natural Language Processing.  
+He is a member of [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/) and is studying Natural Language Processing.  
 His research interests include Question Answering and Named Entity Recognition. Other interesting areas are design.  
 Please feel free to contact me through my email icon if you have any questions.  

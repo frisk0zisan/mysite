@@ -22,18 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: RIKEN AIP Shinra Project
-    company_url: ''
+  - title: RIKEN AIP 
+    company_url: 'https://www.riken.jp/en/research/labs/aip/goalorient_tech/nat_lang_understand/index.html'
     location: Tokyo(remote)
-    date_start: '2021-02-01'
+    date_start: '2022-04-01'
     date_end: ''
-    description: Research on Attribute Value Extraction.
+    description: Research Part-time Worker II
 
   - title: Nikkei Inc.
     company_url: ''
     location: Tokyo(remote)
-    date_start: '2020-09-20'
-    date_end: '2020-09-25'
+    date_start: '2021-09-20'
+    date_end: '2021-09-25'
     description: 1weeks intern：Data Scientist
 
 
