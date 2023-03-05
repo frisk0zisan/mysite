@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Masaki Sakata</title>
-    <link>https://frisk0zisan.github.io/portfolio/post/</link>
-      <atom:link href="https://frisk0zisan.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://masaki-sakata.github.io/portfolio/post/</link>
+      <atom:link href="https://masaki-sakata.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://frisk0zisan.github.io/portfolio/media/icon_hu6402cee1bb9498cfdf71fa55da95be05_20513_512x512_fill_lanczos_center_3.png</url>
+      <url>https://masaki-sakata.github.io/portfolio/media/icon_hu6402cee1bb9498cfdf71fa55da95be05_20513_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>https://frisk0zisan.github.io/portfolio/post/</link>
+      <link>https://masaki-sakata.github.io/portfolio/post/</link>
     </image>
     
     <item>
       <title>日本語Wikipediaからの属性値抽出タスクにおけるクエリの有効性検証</title>
-      <link>https://frisk0zisan.github.io/portfolio/post/nlp2022/</link>
+      <link>https://masaki-sakata.github.io/portfolio/post/nlp2022/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://frisk0zisan.github.io/portfolio/post/nlp2022/</guid>
+      <guid>https://masaki-sakata.github.io/portfolio/post/nlp2022/</guid>
       <description>&lt;h3 id=&#34;publication&#34;&gt;Publication&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.anlp.jp/nlp2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;言語処理学会第28回年次大会&lt;/a&gt;, pp.1635-1640, March 2022. &lt;a href=&#34;https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PH4-6.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[paper]&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>Estimating the Emotional Information in Japanese Songs Using Search Engines</title>
-      <link>https://frisk0zisan.github.io/portfolio/post/mdpi2022/</link>
+      <link>https://masaki-sakata.github.io/portfolio/post/mdpi2022/</link>
       <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://frisk0zisan.github.io/portfolio/post/mdpi2022/</guid>
+      <guid>https://masaki-sakata.github.io/portfolio/post/mdpi2022/</guid>
       <description>&lt;h3 id=&#34;publication&#34;&gt;Publication&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.mdpi.com/journal/sensors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Multidisciplinary Digital Publishing Institute Sensor 2022&lt;/a&gt;, 24 February 2022 &lt;a href=&#34;https://www.mdpi.com/1424-8220/22/5/1800&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[paper]&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -34,9 +34,9 @@
     
     <item>
       <title>Wikipedia記事の構造化における関連知識を含む質問の有効性検証</title>
-      <link>https://frisk0zisan.github.io/portfolio/post/yans2021/</link>
+      <link>https://masaki-sakata.github.io/portfolio/post/yans2021/</link>
       <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://frisk0zisan.github.io/portfolio/post/yans2021/</guid>
+      <guid>https://masaki-sakata.github.io/portfolio/post/yans2021/</guid>
       <description>&lt;h3 id=&#34;publication&#34;&gt;Publication&lt;/h3&gt;
 &lt;p&gt;NLP若手の会(YANS) 第16回シンポジウム&lt;/p&gt;
 </description>
