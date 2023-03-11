@@ -29,4 +29,4 @@ categories:
 ---
 
 ### Publication
-[言語処理学会第29回年次大会](https://www.anlp.jp/nlp2023/), March 2022. [[paper]](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/B6-4.pdf)
+[言語処理学会第29回年次大会](https://www.anlp.jp/nlp2023/), March 2023. [[paper]](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/B6-4.pdf)
