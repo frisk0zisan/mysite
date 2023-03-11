@@ -74,7 +74,7 @@ highlight_name: false
 ---
 
 
-Masaki Sakata is a master's student currently enrolled at [Tohoku University](https://www.is.tohoku.ac.jp/) in Japan.
-He is a member of the [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/), where he is pursuing his studies in Natural Language Processing.
-His research interests include Named Entity and Probing Pretrained Models. 
+Masaki Sakata is a master's student currently enrolled at [Tohoku University](https://www.is.tohoku.ac.jp/) in Japan.  
+He is a member of the [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/), where he is pursuing his studies in Natural Language Processing.  
+His research interests include Named Entity and Probing Pretrained Models.  
 For any questions, please feel free to contact me through my email icon.
